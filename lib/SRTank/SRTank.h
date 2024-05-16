@@ -75,7 +75,7 @@ public:
     // Setters para los outputs analógicos.
     void setMaxTemperatureAlarm(unsigned int temperature);
     void setMinTemperatureAlarm(unsigned int temperature);
-    // New functions.
+    // Complex functions.
     void fillTank(void);
     void fillTank(unsigned int volume);
     void emptyTank(void);
